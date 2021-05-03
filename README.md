@@ -1,0 +1,1 @@
+# jsoneditor-for-react.d.ts
